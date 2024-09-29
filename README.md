@@ -1,5 +1,6 @@
 ## Hi there!! ^_^
-
+this may look a little blank rn but stay tooned :3
+in the meantime enjoy random stats
 <!--
 **glitchyfuzzy/glitchyfuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchyfuzzy&theme=cobalt&hide_rank=true&custom_title=fuzzystats&)](https://github.com/anuraghazra/github-readme-stats)
-this may look a little blank rn but stay tooned :3
