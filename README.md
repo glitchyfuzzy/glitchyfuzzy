@@ -1,5 +1,6 @@
 ## Hi there!! ^_^
 this may look a little blank rn but stay tooned :3 <br>
+(half of my repos are private) <br>
 in the meantime enjoy random stats courtesy of [anurag hazra](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **glitchyfuzzy/glitchyfuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
